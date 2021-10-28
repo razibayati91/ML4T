@@ -1,3 +1,3 @@
 # ML4Telecom
 
-![Alt text](./images/mLusecases.png "use cases")
+![Alt text](./images/MLusecases.png "use cases")
